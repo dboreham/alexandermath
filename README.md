@@ -1,5 +1,5 @@
 # alexandermath
-Python program for solving my sons\' math homework puzzles
+Python program for solving my sons' math homework puzzles
 
 Program for solving math problems where you are asked
 to find all the expressions involving all of some set of integers
